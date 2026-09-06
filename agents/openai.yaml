@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 143"
+  short_description: "Calligram Visual Poetry"
+  default_prompt: "Use $xxd-panel-143 to transform my photograph using the complete canonical source brief."
