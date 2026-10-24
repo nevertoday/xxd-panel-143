@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 143｜Calligram Visual Poetry: rebuilds the key subject of a photo entirely out of words drawn from its subject, place, mood, action or memory, using larger letters for the skeleton and main outline, dense small text for shadows, texture and weight, and sparse words for edges and air, bending, clustering, breaking and thinning along the form like a calligram, in 2–4 brightened colours from the photo on a near-white ground with large deliberate whitespace, so from afar you see a clear image and up close you find it is all text. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-143 or asks for calligram, typographic illustration, word-art portraits or visual poetry from a photo.",
+  "short_description": "文字造型视觉诗：用从照片里提炼的文字堆出主体轮廓和明暗，远看是图，近看全是字",
+  "zh-CN": {
+    "name": "文字造型视觉诗",
+    "tagline": "用从照片里提炼的文字拼出主体的轮廓和明暗，远看是图，近看全是字。",
+    "look": "主体完全由文字构成：较大的字搭出骨架和主要轮廓，密集的小字堆出暗部、纹理和重量，稀疏的字形成边缘和消散的空气感；文字会沿主体走势弯曲、聚集、断开或逐渐变疏，像一首图形诗。文字内容从照片的主体、地点、情绪、动作或回忆里提炼，语种随画面语境，不用乱码和机械重复。颜色从照片取 2–4 种，提亮去灰，铺在近白的底上，周围留出大量空白。",
+    "traits": [
+      "文字造型诗",
+      "源图语义词构成轮廓",
+      "字距与文字密度",
+      "文字即图形",
+      "大面积留白"
+    ],
+    "good": [
+      "轮廓好认、形体简单的主体：一只猫、一棵树、一个人的侧影、一把吉他",
+      "有故事或情绪可以写成文字的照片：老家的房子、毕业照里的一个人、旅途中的一座山",
+      "想做成纪念海报、礼物或文学感封面的照片"
+    ],
+    "poor": [
+      "细节很多或需要看清五官的照片，用文字很难拼准",
+      "主体很多、关系复杂的大场景",
+      "想要写实画面，或只想在照片上加一行标题的需求"
+    ]
+  },
+  "en": {
+    "name": "Calligram Visual Poetry",
+    "tagline": "Builds your photo's subject out of words taken from the photo: an image from afar, all text up close.",
+    "look": "The subject is made entirely of text: larger letters form the skeleton and main outline, dense small text builds shadows, texture and weight, and sparse words make the edges and the air around it; the words bend, cluster, break off or thin out along the shape, like a visual poem. The words come from the photo's subject, place, mood, action or memories, in whatever language suits the scene, with no gibberish or mechanical repetition. Two to four brightened colours from the photo sit on a near-white ground with plenty of empty space around.",
+    "traits": [
+      "Calligram poetry",
+      "Outline made of words from the photo",
+      "Letter spacing and text density",
+      "Text as image",
+      "Generous whitespace"
+    ],
+    "good": [
+      "Subjects with a recognisable, simple shape: a cat, a tree, a person in profile, a guitar",
+      "Photos with a story or feeling that can be put into words: a childhood home, one person from a graduation photo, a mountain from a trip",
+      "Photos for a keepsake poster, a gift or a literary cover"
+    ],
+    "poor": [
+      "Photos with lots of detail or faces that must be readable, which words cannot render precisely",
+      "Wide scenes with many subjects and complex relationships",
+      "Requests for a realistic image, or for simply adding a headline on top of a photo"
+    ]
+  },
+  "ja": {
+    "name": "文字造形の視覚詩",
+    "tagline": "写真から引き出した言葉で主役の輪郭と陰影を組み上げます。遠くからは絵、近づくとすべて文字です。",
+    "look": "主役はすべて文字でできています。大きめの文字が骨格と主な輪郭をつくり、密集した小さな文字が暗部、質感、重みを、まばらな文字が縁と消えていく空気を表します。文字は形の流れに沿って曲がり、集まり、途切れ、だんだん疎らになり、図形詩のようになります。言葉は写真の主役、場所、気分、動き、思い出から引き出し、言語は場面に合わせて自由に選び、意味のない文字列や機械的な繰り返しは使いません。色は写真から 2〜4 色を取って明るく澄ませ、白に近い地に置き、周りには大きな余白を残します。",
+    "traits": [
+      "カリグラム",
+      "写真の言葉でつくる輪郭",
+      "字間と文字の密度",
+      "文字がそのまま図になる",
+      "大きな余白"
+    ],
+    "good": [
+      "形がわかりやすくシンプルな主役：猫、一本の木、人の横顔、ギター",
+      "言葉にできる物語や気持ちがある写真：実家の家、卒業写真の一人、旅で見た山",
+      "記念のポスター、贈り物、文学的な表紙にしたい写真"
+    ],
+    "poor": [
+      "細部が多い、または顔をはっきり見せる必要がある写真（文字では正確に表せません）",
+      "主役が多く関係が複雑な広い場面",
+      "写実的な画面を求める場合や、写真にタイトルを一行のせたいだけの場合"
+    ]
+  },
+  "ko": {
+    "name": "문자 조형 시각시",
+    "tagline": "사진에서 길어 올린 글자로 주인공의 윤곽과 명암을 쌓아 올립니다. 멀리서는 그림, 가까이서는 모두 글자입니다.",
+    "look": "주인공은 전부 글자로 이루어집니다. 큰 글자가 뼈대와 주요 윤곽을, 빽빽한 작은 글자가 어두운 부분과 질감, 무게를, 드문드문한 글자가 가장자리와 흩어지는 공기를 만듭니다. 글자는 형태의 흐름을 따라 휘고, 모이고, 끊기고, 점점 성글어져 그림 시처럼 됩니다. 문장은 사진의 주인공, 장소, 감정, 동작, 기억에서 길어 오고, 언어는 장면에 맞게 자유롭게 고르며, 의미 없는 글자나 기계적인 반복은 쓰지 않습니다. 색은 사진에서 2~4가지를 골라 밝고 맑게 다듬어 흰색에 가까운 바탕에 두고, 주변에 넓은 여백을 남깁니다.",
+    "traits": [
+      "캘리그램",
+      "사진의 단어로 만든 윤곽",
+      "자간과 글자 밀도",
+      "글자가 곧 그림",
+      "넓은 여백"
+    ],
+    "good": [
+      "형태가 알아보기 쉽고 단순한 주인공: 고양이, 나무 한 그루, 사람의 옆모습, 기타",
+      "글로 옮길 이야기나 감정이 있는 사진: 고향 집, 졸업 사진 속 한 사람, 여행에서 본 산",
+      "기념 포스터, 선물, 문학적인 표지로 만들고 싶은 사진"
+    ],
+    "poor": [
+      "세부가 많거나 얼굴을 또렷이 보여야 하는 사진(글자로는 정확히 표현하기 어렵습니다)",
+      "주인공이 많고 관계가 복잡한 넓은 장면",
+      "사실적인 화면을 원하거나 사진 위에 제목 한 줄만 얹고 싶은 경우"
+    ]
+  },
+  "ar": {
+    "name": "شعر بصري بتشكيل الكلمات",
+    "tagline": "يبني العنصر الرئيسي في صورتك من كلمات مأخوذة منها: صورة من بعيد، ونص خالص من قريب.",
+    "look": "يتكوّن العنصر كله من النص: حروف أكبر تشكّل الهيكل والخط الخارجي الرئيسي، ونص صغير كثيف يبني الظلال والملمس والثقل، وكلمات متفرقة تصنع الحواف والهواء المحيط؛ وتنحني الكلمات وتتجمّع وتنقطع أو تتباعد على امتداد الشكل، كقصيدة بصرية. تأتي الكلمات من عنصر الصورة ومكانها ومزاجها وحركتها وذكرياتها، بأي لغة تناسب المشهد، بلا رموز عشوائية ولا تكرار آلي. تُؤخذ من الصورة اثنان إلى أربعة ألوان مُفتَّحة توضع على أرضية شبه بيضاء مع فراغ واسع حولها.",
+    "traits": [
+      "قصيدة مُشكَّلة",
+      "خط خارجي من كلمات الصورة",
+      "تباعد الحروف وكثافة النص",
+      "النص صورةً",
+      "فراغ واسع"
+    ],
+    "good": [
+      "عناصر بشكل بسيط يسهل التعرّف عليه: قطة، شجرة، شخص من الجانب، غيتار",
+      "صور فيها حكاية أو شعور يمكن قوله بالكلمات: بيت الطفولة، شخص من صورة تخرّج، جبل من رحلة",
+      "صور لملصق تذكاري أو هدية أو غلاف بطابع أدبي"
+    ],
+    "poor": [
+      "صور كثيرة التفاصيل أو فيها وجوه يجب أن تُقرأ بوضوح، إذ لا تستطيع الكلمات رسمها بدقة",
+      "مشاهد واسعة بعناصر كثيرة وعلاقات معقدة",
+      "طلب صورة واقعية، أو مجرد إضافة عنوان فوق الصورة"
+    ]
+  }
+}

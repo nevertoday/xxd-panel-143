@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-143
-description: "Create XXD Panel 143 raster artwork from photographs using calligram visual poetry, source-grounded words forming the subject itself, typography as image, expressive letter spacing and generous negative space. Use when the user invokes xxd-panel-143 or requests this style. Supports individual images, isolated directory batches, strict 50:50 comparisons, design-only outputs, and wallpapers."
+description: "XXD Panel 143｜Calligram Visual Poetry: rebuilds the key subject of a photo entirely out of words drawn from its subject, place, mood, action or memory, using larger letters for the skeleton and main outline, dense small text for shadows, texture and weight, and sparse words for edges and air, bending, clustering, breaking and thinning along the form like a calligram, in 2–4 brightened colours from the photo on a near-white ground with large deliberate whitespace, so from afar you see a clear image and up close you find it is all text. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-143 or asks for calligram, typographic illustration, word-art portraits or visual poetry from a photo."
 ---
 
 # XXD Panel 143

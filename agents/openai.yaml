@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 143"
-  short_description: "Calligram Visual Poetry"
-  default_prompt: "Use $xxd-panel-143 to transform my photograph using the complete canonical source brief."
+  short_description: "文字造型视觉诗：用从照片里提炼的文字堆出主体轮廓和明暗，远看是图，近看全是字"
+  default_prompt: "Use $xxd-panel-143 to turn my photo into Calligram Visual Poetry artwork."
